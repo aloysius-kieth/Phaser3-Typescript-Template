@@ -1,0 +1,9 @@
+{
+    "spritemap": {
+        "bgm": {
+            "start": 0,
+            "end": 57.143,
+            "loop": true
+        }
+    }
+}

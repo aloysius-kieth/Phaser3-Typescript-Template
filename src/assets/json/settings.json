@@ -1,0 +1,24 @@
+{
+  "game": {
+    "debugMode": false,
+    "debugLog": true,
+    "spawnRate": 3000,
+    "maxSpawnRate": 1000,
+    "spawnFactor": 100,
+    "pointsPerProduct": 10,
+    "timeToIncreaseDifficulty": 10000
+  },
+  "audio": {
+    "mute": false,
+    "masterVolume": 1.0,
+    "musicVolume": 0.7,
+    "sfxVolume": 1.0
+  },
+  "api": {
+    "IP": "127.0.0.1",
+    "frontURL": "",
+    "backURL": "",
+    "port": "",
+    "stringFn": "console.log('mee');"
+  }
+}
